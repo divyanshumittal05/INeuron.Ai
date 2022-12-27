@@ -1,4 +1,9 @@
-                                                       ---- Task 1 ------
+-- First I create a warehouse -- Warehouse_Name = self_warehouse            
+-- Second Create database -- database name = Task            
+            
+            
+            
+                                                          ---- Task 1 ------
 
 Create Database Task;
 CREATE OR REPLACE TABLE Shopping_History(
